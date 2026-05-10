@@ -46,7 +46,7 @@ Depois, siga as instruções no terminal.
 <!-- INSIRA SEU GIF AQUI -->
 
 ```md
-![Demonstração](./animacao-gif.gif)
+![Demonstração](./animacao-uso.gif)
 ```
 
 ---
