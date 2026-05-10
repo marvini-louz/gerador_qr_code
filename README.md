@@ -43,11 +43,7 @@ Depois, siga as instruções no terminal.
 
 ## 🎥 Demonstração
 
-<!-- INSIRA SEU GIF AQUI -->
-
-```md
 ![Demonstração](./animacao-uso.gif)
-```
 
 ---
 
